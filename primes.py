@@ -16,4 +16,3 @@ def primes(number_of_primes):
              count += 1
          number += 1
     return list
-print(primes(10))
